@@ -30,8 +30,9 @@ o *app* vai ter 3 funcionalidades principais:
 
 
 
-## MVC
+## MVP
 
 
 
 ![expo001](expo001.png)
+
